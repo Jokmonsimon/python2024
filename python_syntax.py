@@ -1,4 +1,4 @@
-# print("500 Days Run"); print("Fast Track Challenge")
+print("500 Days Run"); print("Fast Track Challenge")
 # Create two variables to hold pace for the first and second km
 
 pace_for_1km = 284 # Pace for the first kilometer in seconds
