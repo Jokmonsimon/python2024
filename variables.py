@@ -7,3 +7,5 @@ day1_end_time = "6:55:00 AM"
 print(day1_date)
 print(day1_start_time)
 print(day1_end_time)
+
+# Working with mulptiple variables
